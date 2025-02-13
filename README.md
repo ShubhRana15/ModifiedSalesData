@@ -1,6 +1,4 @@
 # ModifiedSalesData
-Project Overview The goal of this project is to analyze the sales data to uncover trends, patterns, and insights by summarizing and aggregating the data. 
-
 Project Overview
 The goal of this project is to analyze the sales data to uncover trends, patterns, and insights by summarizing and aggregating the data. The key tasks include:
 1.	Time-Based Aggregation: Summarize sales data by month, quarter, and day to understand seasonal trends and daily performance.
